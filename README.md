@@ -519,7 +519,7 @@ The main analytical takeaway is not that the observed segment differences are de
 
 ## Author
 
-**Name:** [Your Name]  
-**LinkedIn:** [Your LinkedIn Profile URL]  
-**GitHub:** [Your GitHub Profile URL]  
-**Email:** [Your Professional Email]
+**Name:** ishwar singh  
+**LinkedIn:** www.linkedin.com/in/ishwar-singh-rajput-a44b04383  
+**GitHub:** https://github.com/ishwaraiengineer 
+**Email:** ishwarsinghr148@gmail.com
